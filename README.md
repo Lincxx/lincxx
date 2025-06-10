@@ -5,7 +5,7 @@
 ---
 
 - **Azure**
-    - link
+    - [Azure simple overview](https://github.com/Lincxx/azure-simple-overview)
 - **osTicket**
     - link
 - **Active Directory**
