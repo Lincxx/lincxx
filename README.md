@@ -15,4 +15,5 @@
     - [Preparing AD Infrastructure in Azure](https://github.com/Lincxx/azure-preparing-AD-infrastructure)
     - [Deploying Active Directory](https://github.com/Lincxx/azure-deploying-active-directory)
     - [Enabling and Unlocking Accounts and Restting Passwords](https://github.com/Lincxx/azure-enabling-and-unlocking-accounts-and-Restting-passwords)
- 
+ - **DNS**
+    - [Azure DNS Lab](https://github.com/Lincxx/azure-dns-lab) 
