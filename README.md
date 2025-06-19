@@ -18,4 +18,4 @@
  - **DNS**
     - [Azure DNS Lab](https://github.com/Lincxx/azure-dns-lab)
 - **Network File Shares and Permissions**
-    - [Network File Shares and Permissions](https://github.com/Lincxx/azure-dns-lab) 
+    - [Network File Shares and Permissions]() 
