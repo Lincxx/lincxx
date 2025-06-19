@@ -16,4 +16,6 @@
     - [Deploying Active Directory](https://github.com/Lincxx/azure-deploying-active-directory)
     - [Enabling and Unlocking Accounts and Restting Passwords](https://github.com/Lincxx/azure-enabling-and-unlocking-accounts-and-Restting-passwords)
  - **DNS**
-    - [Azure DNS Lab](https://github.com/Lincxx/azure-dns-lab) 
+    - [Azure DNS Lab](https://github.com/Lincxx/azure-dns-lab)
+- **Network File Shares and Permissions**
+    - [Network File Shares and Permissions](https://github.com/Lincxx/azure-dns-lab) 
