@@ -13,4 +13,5 @@
     - link
 - **Active Directory**
     - [Preparing AD Infrastructure in Azure](https://github.com/Lincxx/azure-preparing-AD-infrastructure)
+    - [Deploying Active Directory](https://github.com/Lincxx/azure-deploying-active-directory)
  
