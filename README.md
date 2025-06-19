@@ -12,5 +12,5 @@
 - **osTicket**
     - link
 - **Active Directory**
-    - link
+    - [Preparing AD Infrastructure in Azure](https://github.com/Lincxx/azure-preparing-AD-infrastructure)
  
