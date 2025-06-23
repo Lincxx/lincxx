@@ -27,6 +27,6 @@
 - **RHSAC**
     - [Coming Soon!]()
  
-## Certs 
+## 🎓📄 Certifications 
 --- 
 - [Certifications](https://github.com/Lincxx/list-of-certs/)
