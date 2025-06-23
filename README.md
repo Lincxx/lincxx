@@ -20,6 +20,12 @@
 - **Network File Shares and Permissions**
     - [Network File Shares and Permissions](https://github.com/Lincxx/azure-network-file-shares-and-permissions)
 ---
+
+## 🎓📄 Certifications 
+--- 
+- [Certifications](https://github.com/Lincxx/list-of-certs/)
+
+---
 ## 🖥️ IT Studying/Projects 
 ---
 - **Sec+**
@@ -27,6 +33,3 @@
 - **RHSAC**
     - [Coming Soon!]()
  
-## 🎓📄 Certifications 
---- 
-- [Certifications](https://github.com/Lincxx/list-of-certs/)
