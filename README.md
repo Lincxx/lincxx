@@ -29,4 +29,4 @@
  
 ## Certs 
 --- 
-- [certifications](https://github.com/Lincxx/list-of-certs/)
+- [Certifications](https://github.com/Lincxx/list-of-certs/)
